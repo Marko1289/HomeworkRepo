@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomDialog" parent="android:Theme.DeviceDefault.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">"Loading..." </item>
+        <item name="DialogSpotColor">@android:color/holo_green_dark</item>
+        <item name="DialogSpotCount">3</item>
+
+
+    </style>
+
+
+</resources>
